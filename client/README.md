@@ -19,7 +19,7 @@ A modern, scalable Task Management Dashboard built with the MERN Stack (MongoDB,
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/primetrade-assignment.git](https://github.com/vikram-p23/primetrade-assignment.git)
+    git clone https://github.com/vikram-p23/primetrade-assignment.git
     cd primetrade-assignment
     ```
 
